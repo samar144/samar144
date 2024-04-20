@@ -3,11 +3,11 @@ My Repository
 <h1 align="center">Hi 👋, I'm Samar</h1>
 <h3 align="center">A Flutter developer from Syria</h3>
 
-- 🔭 I’m currently working on [world_time_app](https://github.com/samar144/world_time)
+- 🔭 I’m currently working on flutter projects in my college 
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **mobile app creation **
 
-- 👨‍💻 All of my projects are available at [https://github.com/samar144/world_time](https://github.com/samar144/world_time)
+- 👨‍💻 All of my projects are available at [https://github.com/samar144](https://github.com/samar144)
 
 - 📝 I regularly write articles on [https://www.facebook.com/samar.aldayyat](https://www.facebook.com/samar.aldayyat)
 
